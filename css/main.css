@@ -17,6 +17,23 @@ html {
   box-sizing: inherit;
 }
 
+header {
+  background-color: #e2e2e2;
+}
+
+body{
+  margin: 0;
+}
+
+ul{
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li{
+  display: inline-block;
+}
+
 .title,
 .list {
   text-align: center;
