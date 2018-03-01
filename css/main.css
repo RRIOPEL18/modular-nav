@@ -21,28 +21,25 @@ header {
   background-color: #e2e2e2;
 }
 
-body{
+body {
   margin: 0;
 }
 
-ul{
+ul {
   list-style-type: none;
   padding-left: 0;
 }
 
-li{
+li {
   display: inline-block;
 }
 
-a{
+a {
   text-decoration: none;
   color: #0074d9;
 }
 
-.planets{
-}
-
-.planets:hover{
+.planets:hover {
   color: #fff;
   background-color: #0074d9;
 }
