@@ -49,3 +49,10 @@ a:hover,
 .list {
   text-align: center;
 }
+
+@media screen and (min-width: 90em) {
+
+h1{
+  text-align: left;
+}
+}
