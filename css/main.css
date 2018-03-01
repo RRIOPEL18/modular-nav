@@ -34,6 +34,19 @@ li{
   display: inline-block;
 }
 
+a{
+  text-decoration: none;
+  color: #0074d9;
+}
+
+.planets{
+  color: #fff;
+}
+
+.planets:hover{
+  background-color: #0074d9;
+}
+
 .title,
 .list {
   text-align: center;
