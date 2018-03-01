@@ -40,10 +40,10 @@ a{
 }
 
 .planets{
-  color: #fff;
 }
 
 .planets:hover{
+  color: #fff;
   background-color: #0074d9;
 }
 
