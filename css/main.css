@@ -16,3 +16,9 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.title,
+.list {
+  text-align: center;
+
+}
