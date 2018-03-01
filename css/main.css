@@ -52,7 +52,8 @@ a:hover,
 
 @media screen and (min-width: 90em) {
 
-  h1{
+  h1 {
     text-align: left;
   }
+
 }
